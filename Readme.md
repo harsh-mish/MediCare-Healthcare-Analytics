@@ -819,13 +819,13 @@ MediCare-Healthcare-Analytics/
 
 <table>
 <tr>
-<td align="center" width="14%">📥<br/><b>1</b><br/>Clone / download the repo</td>
-<td align="center" width="14%">📂<br/><b>2</b><br/>Open the <code>Dashboard</code> folder</td>
+<td align="center" width="14%">📥<br/><b>1</b><br/>Clone or download this repository</td>
+<td align="center" width="14%">🧩<br/><b>2</b><br/>Open the <code>Data Model</code> folder</td>
 <td align="center" width="14%">⬇️<br/><b>3</b><br/>Download the <code>.pbix</code> file</td>
-<td align="center" width="14%">💻<br/><b>4</b><br/>Open in Power BI Desktop</td>
-<td align="center" width="14%">🏠<br/><b>5</b><br/>Explore Executive Overview</td>
-<td align="center" width="14%">💰<br/><b>6</b><br/>Go to Financial & Claims</td>
-<td align="center" width="14%">🎛️<br/><b>7</b><br/>Use slicers to analyse</td>
+<td align="center" width="14%">💻<br/><b>4</b><br/>Open it in Power BI Desktop</td>
+<td align="center" width="14%">🏠<br/><b>5</b><br/>Explore the Executive Overview page</td>
+<td align="center" width="14%">💰<br/><b>6</b><br/>Go to Financial & Claims Analysis</td>
+<td align="center" width="14%">🎛️<br/><b>7</b><br/>Use slicers to filter and analyse</td>
 </tr>
 </table>
 
