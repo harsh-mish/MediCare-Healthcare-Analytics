@@ -1,0 +1,66 @@
+TableName,ColumnName,Description
+patients,PatientID,Unique patient identifier
+patients,PatientName,Synthetic patient name
+patients,DateOfBirth,Patient date of birth
+patients,Gender,Patient gender
+patients,City,Patient city
+patients,State,Patient state
+patients,InsuranceType,Type of insurance
+patients,RegistrationDate,Date patient registered
+hospitals,HospitalID,Unique hospital identifier
+hospitals,HospitalName,Hospital name
+hospitals,City,Hospital city
+hospitals,State,Hospital state
+hospitals,HospitalType,Hospital classification
+hospitals,TotalBeds,Total hospital beds
+departments,DepartmentID,Unique department identifier
+departments,DepartmentName,Department name
+departments,HospitalID,Associated hospital
+departments,DepartmentType,Clinical or diagnostic
+doctors,DoctorID,Unique doctor identifier
+doctors,DoctorName,Synthetic doctor name
+doctors,DepartmentID,Doctor department
+doctors,Specialization,Medical specialization
+doctors,ExperienceYears,Doctor experience
+doctors,EmploymentType,Employment category
+appointments,AppointmentID,Unique appointment identifier
+appointments,PatientID,Patient reference
+appointments,DoctorID,Doctor reference
+appointments,AppointmentDate,Appointment date
+appointments,AppointmentType,Type of appointment
+appointments,AppointmentStatus,Appointment outcome
+appointments,WaitingTimeMinutes,Patient waiting time
+admissions,AdmissionID,Unique admission identifier
+admissions,PatientID,Patient reference
+admissions,HospitalID,Hospital reference
+admissions,DepartmentID,Department reference
+admissions,AdmissionDate,Admission date
+admissions,DischargeDate,Discharge date
+admissions,AdmissionType,Admission category
+admissions,DischargeStatus,Discharge outcome
+admissions,LengthOfStay,Number of days admitted
+treatments,TreatmentID,Unique treatment identifier
+treatments,PatientID,Patient reference
+treatments,DoctorID,Doctor reference
+treatments,TreatmentDate,Treatment date
+treatments,TreatmentType,Treatment category
+treatments,TreatmentCost,Treatment cost
+bed_utilization,Date,Utilization date
+bed_utilization,HospitalID,Hospital reference
+bed_utilization,TotalBeds,Total available beds
+bed_utilization,OccupiedBeds,Occupied beds
+bed_utilization,AvailableBeds,Available beds
+bed_utilization,OccupancyRate,Bed occupancy percentage
+patient_feedback,FeedbackID,Unique feedback identifier
+patient_feedback,PatientID,Patient reference
+patient_feedback,DepartmentID,Department reference
+patient_feedback,FeedbackDate,Feedback date
+patient_feedback,Rating,Patient rating
+patient_feedback,FeedbackCategory,Feedback category
+insurance_claims,ClaimID,Unique claim identifier
+insurance_claims,PatientID,Patient reference
+insurance_claims,AdmissionID,Admission reference
+insurance_claims,ClaimDate,Claim date
+insurance_claims,ClaimAmount,Submitted claim amount
+insurance_claims,ApprovedAmount,Approved amount
+insurance_claims,ClaimStatus,Claim processing status

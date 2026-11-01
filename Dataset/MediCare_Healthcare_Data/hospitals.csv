@@ -1,0 +1,9 @@
+HospitalID,HospitalName,City,State,HospitalType,TotalBeds
+H001,MediCare Central Hospital,Pune,Maharashtra,Specialty,548
+H002,MediCare City Hospital,Mumbai,Maharashtra,General,271
+H003,MediCare Advanced Care,Bengaluru,Karnataka,Multi-Specialty,302
+H004,MediCare Multispecialty,Hyderabad,Telangana,Specialty,414
+H005,MediCare LifeCare Hospital,Delhi,Delhi,General,287
+H006,MediCare Prime Hospital,Lucknow,Uttar Pradesh,Specialty,559
+H007,MediCare HealthPlus,Jaipur,Rajasthan,Multi-Specialty,349
+H008,MediCare Institute of Medical Sciences,Ahmedabad,Gujarat,General,543

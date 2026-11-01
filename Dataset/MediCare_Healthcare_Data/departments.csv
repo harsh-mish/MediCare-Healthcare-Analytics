@@ -1,0 +1,41 @@
+DepartmentID,DepartmentName,HospitalID,DepartmentType
+DEP001,GENERAL MEDICINE,H004,Diagnostic
+DEP002,General medicine,H002,Clinical
+DEP003,GENERAL MEDICINE,H001,Clinical
+DEP004,Oncology,H006,Clinical
+DEP005,General medicine,H001,Clinical
+DEP006,GENERAL MEDICINE,H008,Clinical
+DEP007,General Medicine,H004,Clinical
+DEP008,GENERAL MEDICINE,H004,Clinical
+DEP009,Emergency,H003,Clinical
+DEP010,General Medicine,H003,Clinical
+DEP011,Oncology,H005,Clinical
+DEP012,Neurology,H007,Clinical
+DEP013,Oncology,H004,Clinical
+DEP014,Neurology,H004,Clinical
+DEP015,General medicine,H002,Clinical
+DEP016,General medicine,H002,Clinical
+DEP017,Pediatrics,H002,Clinical
+DEP018,General medicine,H004,Clinical
+DEP019,GENERAL MEDICINE,H004,Clinical
+DEP020,GENERAL MEDICINE,H007,Clinical
+DEP021,Cardiology,H006,Clinical
+DEP022,Neurology,H004,Clinical
+DEP023,Pediatrics,H008,Clinical
+DEP024,General medicine,H002,Diagnostic
+DEP025,Gastroenterology,H006,Clinical
+DEP026,Radiology,H004,Diagnostic
+DEP027,General medicine,H005,Clinical
+DEP028,Neurology,H002,Clinical
+DEP029,GENERAL MEDICINE,H002,Clinical
+DEP030,GENERAL MEDICINE,H006,Clinical
+DEP031,General Medicine,H006,Clinical
+DEP032,Oncology,H004,Clinical
+DEP033,Dermatology,H006,Clinical
+DEP034,General medicine,H005,Clinical
+DEP035,Emergency,H007,Clinical
+DEP036,Gastroenterology,H008,Clinical
+DEP037,General medicine,H001,Clinical
+DEP038,GENERAL MEDICINE,H005,Clinical
+DEP039,GENERAL MEDICINE,H001,Clinical
+DEP040,General medicine,H001,Clinical

@@ -1,0 +1,301 @@
+DoctorID,DoctorName,DepartmentID,Specialization,ExperienceYears,EmploymentType
+D0001,Aryan Maharaj,DEP001,Radiologist,12,Full-Time
+D0002,Udant Dewan,DEP011,Oncologist,19,Part-Time
+D0003,Gagan Sami,DEP035,Emergency Physician,3,Part-Time
+D0004,Ayushman Chander,DEP005,Gastroenterologist,10,Full-Time
+D0005,Viraj Tiwari,DEP028,Neurologist,7,Contract
+D0006,Rushil Saini,DEP012,Neurologist,2,Full-Time
+D0007,Saumya Mall,DEP023,Pediatrician,30,Full-Time
+D0008,Nathaniel Sami,DEP035,Emergency Physician,12,Full-Time
+D0009,Arunima Dugal,DEP027,Neurologist,3,Full-Time
+D0010,Gayathri Chaudry,DEP037,Oncologist,15,Part-Time
+D0011,Lajita Chatterjee,DEP001,Radiologist,5,Full-Time
+D0012,Hemangini Lalla,DEP014,Neurologist,7,Full-Time
+D0013,Tripti Yadav,DEP015,Oncologist,15,Full-Time
+D0014,Kritika Brar,DEP013,Oncologist,19,Full-Time
+D0015,Janaki Handa,DEP039,General Physician,17,Full-Time
+D0016,Chakradev Kari,DEP032,Oncologist,4,Contract
+D0017,Fariq Kaul,DEP023,Pediatrician,7,Full-Time
+D0018,Lajita Mall,DEP029,Pediatrician,4,Contract
+D0019,Janya Gaba,DEP007,General Physician,27,Full-Time
+D0020,Isha Kadakia,DEP028,Neurologist,2,Full-Time
+D0021,Ekbal Garg,DEP006,Orthopedic Specialist,28,Part-Time
+D0022,Nihal Shere,DEP020,Orthopedic Specialist,30,Contract
+D0023,Anamika Kanda,DEP028,Neurologist,25,Full-Time
+D0024,Daksh Karnik,DEP033,Dermatologist,1,Full-Time
+D0025,Diya Rattan,DEP013,Oncologist,9,Full-Time
+D0026,Dominic Kakar,DEP006,Orthopedic Specialist,8,Full-Time
+D0027,Simon Tata,DEP037,Oncologist,1,Full-Time
+D0028,Tara Dhar,DEP024,Radiologist,15,Full-Time
+D0029,Liam Koshy,DEP032,Oncologist,24,Part-Time
+D0030,Priya Rastogi,DEP012,Neurologist,30,Full-Time
+D0031,Theodore Devi,DEP003,Gastroenterologist,17,Full-Time
+D0032,Gavin Batta,DEP017,Pediatrician,27,Full-Time
+D0033,Michael Dutta,DEP002,Emergency Physician,28,Full-Time
+D0034,Devansh Rajan,DEP037,Oncologist,1,Full-Time
+D0035,Upadhriti Wadhwa,DEP002,Emergency Physician,21,Full-Time
+D0036,Advay Contractor,DEP032,Oncologist,6,Full-Time
+D0037,Harini Choudhury,DEP004,Oncologist,23,Part-Time
+D0038,Radhika Dugar,DEP017,Pediatrician,6,Full-Time
+D0039,Aarush Lall,DEP034,Neurologist,6,Full-Time
+D0040,Yashica Cherian,DEP016,Emergency Physician,1,Full-Time
+D0041,Yashica Issac,DEP006,Orthopedic Specialist,16,Full-Time
+D0042,Kashvi Edwin,DEP020,Orthopedic Specialist,28,Full-Time
+D0043,Ekiya Suresh,DEP019,Dermatologist,26,Full-Time
+D0044,Isaac Patil,DEP019,Dermatologist,20,Full-Time
+D0045,Wriddhish Bhardwaj,DEP033,Dermatologist,8,Full-Time
+D0046,Farhan Chada,DEP018,General Physician,8,Full-Time
+D0047,Ekapad Walia,DEP028,Neurologist,25,Full-Time
+D0048,Kabir Soman,DEP023,Pediatrician,30,Full-Time
+D0049,Alka Wable,DEP007,General Physician,28,Full-Time
+D0050,Siddharth Zacharia,DEP002,Emergency Physician,1,Full-Time
+D0051,Devika Rastogi,DEP012,Neurologist,5,Contract
+D0052,Raksha Varughese,DEP009,Emergency Physician,9,Full-Time
+D0053,Jai Kota,DEP016,Emergency Physician,3,Contract
+D0054,Devansh Nigam,DEP033,Dermatologist,24,Contract
+D0055,Victor Kannan,DEP008,Oncologist,4,Contract
+D0056,Ekavir Bhargava,DEP020,Orthopedic Specialist,30,Full-Time
+D0057,Ekansh Balay,DEP025,Gastroenterologist,3,Contract
+D0058,Ekavir Varkey,DEP018,General Physician,14,Full-Time
+D0059,Arya Sunder,DEP035,Emergency Physician,16,Contract
+D0060,Kevin Solanki,DEP036,Gastroenterologist,1,Full-Time
+D0061,Urvashi Ray,DEP014,Neurologist,21,Full-Time
+D0062,Girindra Chatterjee,DEP008,Oncologist,7,Part-Time
+D0063,Irya Sampath,DEP033,Dermatologist,16,Full-Time
+D0064,Unni Bhagat,DEP022,Neurologist,23,Full-Time
+D0065,Darsh Rau,DEP030,Dermatologist,6,Contract
+D0066,Ikbal Kothari,DEP008,Oncologist,27,Full-Time
+D0067,Ranveer Yadav,DEP021,Cardiologist,30,Full-Time
+D0068,Logan Sami,DEP033,Dermatologist,5,Full-Time
+D0069,Arya Shere,DEP019,Dermatologist,4,Full-Time
+D0070,Faqid Savant,DEP017,Pediatrician,12,Contract
+D0071,Chandresh Zachariah,DEP029,Pediatrician,14,Contract
+D0072,Girik Khalsa,DEP035,Emergency Physician,28,Full-Time
+D0073,Niharika Sunder,DEP024,Radiologist,29,Full-Time
+D0074,Tanay Rattan,DEP031,General Physician,3,Contract
+D0075,Nitesh Raghavan,DEP021,Cardiologist,23,Full-Time
+D0076,Madhavi Lanka,DEP003,Gastroenterologist,18,Full-Time
+D0077,Bhavika Sampath,DEP031,General Physician,22,Full-Time
+D0078,Mohammed Gupta,DEP040,Dermatologist,14,Full-Time
+D0079,Teerth Bhardwaj,DEP032,Oncologist,15,Contract
+D0080,Dipta Bhandari,DEP002,Emergency Physician,27,Full-Time
+D0081,Vansha Thakkar,DEP026,Radiologist,17,Part-Time
+D0082,Dakshesh Trivedi,DEP009,Emergency Physician,11,Part-Time
+D0083,Quincy Biswas,DEP039,General Physician,29,Full-Time
+D0084,Wahab Raval,DEP026,Radiologist,3,Full-Time
+D0085,Yatin Baral,DEP024,Radiologist,13,Full-Time
+D0086,Oni Virk,DEP007,General Physician,25,Full-Time
+D0087,Advika Jayaraman,DEP020,Orthopedic Specialist,1,Full-Time
+D0088,William Lanka,DEP016,Emergency Physician,14,Contract
+D0089,Karan Mital,DEP023,Pediatrician,15,Full-Time
+D0090,Diya Bora,DEP002,Emergency Physician,23,Full-Time
+D0091,Tara Chaudhry,DEP025,Gastroenterologist,26,Full-Time
+D0092,Tanay Toor,DEP022,Neurologist,26,Contract
+D0093,Kevin Palla,DEP006,Orthopedic Specialist,15,Full-Time
+D0094,Yash Pingle,DEP037,Oncologist,1,Part-Time
+D0095,Nakul Sarma,DEP005,Gastroenterologist,7,Full-Time
+D0096,Abhiram Mistry,DEP032,Oncologist,20,Full-Time
+D0097,Krish Lalla,DEP035,Emergency Physician,23,Full-Time
+D0098,Hredhaan Dugal,DEP016,Emergency Physician,13,Contract
+D0099,Baghyawati Kade,DEP030,Dermatologist,19,Part-Time
+D0100,Samar Lalla,DEP019,Dermatologist,28,Part-Time
+D0101,Zayan Behl,DEP026,Radiologist,5,Full-Time
+D0102,Pallavi Malhotra,DEP023,Pediatrician,9,Full-Time
+D0103,Aarush Nath,DEP001,Radiologist,26,Contract
+D0104,Adweta Edwin,DEP034,Neurologist,30,Full-Time
+D0105,Prisha Andra,DEP025,Gastroenterologist,8,Contract
+D0106,Faqid Dixit,DEP001,Radiologist,16,Full-Time
+D0107,Kala Divan,DEP005,Gastroenterologist,22,Part-Time
+D0108,Joshua Barman,DEP003,Gastroenterologist,12,Full-Time
+D0109,Janya Baral,DEP037,Oncologist,22,Full-Time
+D0110,Shivansh Krish,DEP014,Neurologist,28,Full-Time
+D0111,Irya Ray,DEP030,Dermatologist,14,Contract
+D0112,Warjas Gaba,DEP005,Gastroenterologist,12,Full-Time
+D0113,Nitara Bakshi,DEP026,Radiologist,16,Part-Time
+D0114,Gaurangi Sabharwal,DEP036,Gastroenterologist,1,Full-Time
+D0115,Amara Dutta,DEP037,Oncologist,23,Full-Time
+D0116,Lavanya Barad,DEP005,Gastroenterologist,4,Full-Time
+D0117,Tristan Iyengar,DEP031,General Physician,10,Full-Time
+D0118,Inaya Mody,DEP032,Oncologist,1,Full-Time
+D0119,Udant Bajwa,DEP004,Oncologist,16,Full-Time
+D0120,Mohini Narasimhan,DEP002,Emergency Physician,17,Contract
+D0121,Ekaraj Mallick,DEP032,Oncologist,27,Part-Time
+D0122,Yashodhara Ratta,DEP012,Neurologist,18,Full-Time
+D0123,Ayaan D’Alia,DEP033,Dermatologist,1,Part-Time
+D0124,Pranav Lanka,DEP037,Oncologist,12,Full-Time
+D0125,Ikbal Saraf,DEP033,Dermatologist,8,Contract
+D0126,Dipta Sarin,DEP029,Pediatrician,13,Full-Time
+D0127,Lekha Gupta,DEP002,Emergency Physician,29,Full-Time
+D0128,Chaitanya Sarin,DEP035,Emergency Physician,23,Full-Time
+D0129,Zinal Yohannan,DEP008,Oncologist,29,Part-Time
+D0130,Januja Sankar,DEP026,Radiologist,30,Part-Time
+D0131,Ganga Murthy,DEP007,General Physician,4,Full-Time
+D0132,Charita Tripathi,DEP011,Oncologist,29,Full-Time
+D0133,Nilima Narain,DEP025,Gastroenterologist,21,Contract
+D0134,Chakrika Datta,DEP036,Gastroenterologist,10,Full-Time
+D0135,Osha Raghavan,DEP024,Radiologist,3,Contract
+D0136,Charvi Ravi,DEP036,Gastroenterologist,18,Full-Time
+D0137,Daksha Mangat,DEP032,Oncologist,24,Contract
+D0138,Qushi Nagy,DEP032,Oncologist,5,Full-Time
+D0139,Riya Sathe,DEP013,Oncologist,23,Part-Time
+D0140,Yasti Solanki,DEP030,Dermatologist,17,Full-Time
+D0141,Frado Mander,DEP020,Orthopedic Specialist,16,Full-Time
+D0142,Girik Keer,DEP013,Oncologist,27,Full-Time
+D0143,Umang Issac,DEP036,Gastroenterologist,12,Contract
+D0144,Aryan Batra,DEP019,Dermatologist,12,Full-Time
+D0145,Vaishnavi Bora,DEP028,Neurologist,14,Full-Time
+D0146,Oeshi Hayer,DEP019,Dermatologist,26,Full-Time
+D0147,Warda Ratta,DEP005,Gastroenterologist,3,Full-Time
+D0148,Manbir Ahluwalia,DEP021,Cardiologist,4,Contract
+D0149,Pavani Kanda,DEP016,Emergency Physician,25,Full-Time
+D0150,Zarna Shetty,DEP039,General Physician,14,Full-Time
+D0151,Zaid Dara,DEP005,Gastroenterologist,3,Contract
+D0152,Kiaan Shetty,DEP011,Oncologist,18,Contract
+D0153,Saanvi Thaman,DEP009,Emergency Physician,10,Part-Time
+D0154,Sanaya Dutt,DEP017,Pediatrician,29,Part-Time
+D0155,Shivani Lad,DEP013,Oncologist,8,Full-Time
+D0156,Aradhana Verma,DEP027,Neurologist,26,Full-Time
+D0157,William Maharaj,DEP029,Pediatrician,5,Full-Time
+D0158,Faras Mangal,DEP008,Oncologist,16,Contract
+D0159,Anita Nayak,DEP022,Neurologist,20,Full-Time
+D0160,Faris Devi,DEP007,General Physician,25,Full-Time
+D0161,Vihaan Rajagopal,DEP036,Gastroenterologist,6,Part-Time
+D0162,Tanish Bhatt,DEP019,Dermatologist,29,Full-Time
+D0163,Nikita Narayanan,DEP039,General Physician,27,Full-Time
+D0164,Ojasvi Bhatia,DEP019,Dermatologist,7,Full-Time
+D0165,Osha Ramachandran,DEP013,Oncologist,18,Full-Time
+D0166,Lajita Sood,DEP020,Orthopedic Specialist,28,Part-Time
+D0167,Indira Misra,DEP039,General Physician,1,Full-Time
+D0168,Oni Yohannan,DEP028,Neurologist,30,Full-Time
+D0169,Vinaya Kanda,DEP025,Gastroenterologist,24,Full-Time
+D0170,Rajata Sunder,DEP006,Orthopedic Specialist,26,Full-Time
+D0171,Lopa Nayar,DEP032,Oncologist,13,Full-Time
+D0172,Noah Sibal,DEP021,Cardiologist,16,Full-Time
+D0173,Avi Ramesh,DEP011,Oncologist,28,Full-Time
+D0174,Fiyaz Sangha,DEP035,Emergency Physician,19,Contract
+D0175,Triya Gopal,DEP018,General Physician,15,Full-Time
+D0176,Abha Raghavan,DEP014,Neurologist,15,Full-Time
+D0177,Siddharth Sha,DEP003,Gastroenterologist,16,Part-Time
+D0178,Geetika Raghavan,DEP011,Oncologist,12,Contract
+D0179,Oviya Krishnan,DEP016,Emergency Physician,8,Full-Time
+D0180,Upma Bahl,DEP024,Radiologist,28,Full-Time
+D0181,Inaya Kapur,DEP028,Neurologist,4,Full-Time
+D0182,Banjeet Balasubramanian,DEP028,Neurologist,28,Full-Time
+D0183,Ryan Bahri,DEP036,Gastroenterologist,27,Full-Time
+D0184,William Date,DEP017,Pediatrician,9,Full-Time
+D0185,Ishwar Kamdar,DEP020,Orthopedic Specialist,13,Full-Time
+D0186,Aahana Pillay,DEP029,Pediatrician,13,Contract
+D0187,Ishwar Gade,DEP006,Orthopedic Specialist,18,Full-Time
+D0188,Hritik Bal,DEP005,Gastroenterologist,15,Contract
+D0189,Keya Ranganathan,DEP010,General Physician,24,Contract
+D0190,Faqid Kibe,DEP005,Gastroenterologist,23,Full-Time
+D0191,Charvi Dara,DEP001,Radiologist,18,Contract
+D0192,Idika Walia,DEP011,Oncologist,21,Part-Time
+D0193,Kamala Biswas,DEP025,Gastroenterologist,22,Part-Time
+D0194,Advik Salvi,DEP013,Oncologist,1,Full-Time
+D0195,Hitesh Sant,DEP035,Emergency Physician,1,Full-Time
+D0196,Tripti Dua,DEP006,Orthopedic Specialist,28,Part-Time
+D0197,Patrick Vig,DEP031,General Physician,5,Contract
+D0198,Veda Shroff,DEP023,Pediatrician,5,Part-Time
+D0199,Amrita Naidu,DEP010,General Physician,10,Full-Time
+D0200,Gabriel Mallick,DEP021,Cardiologist,14,Full-Time
+D0201,Yagnesh Shetty,DEP001,Radiologist,19,Full-Time
+D0202,Gayathri Balakrishnan,DEP004,Oncologist,30,Contract
+D0203,Ekta Gopal,DEP040,Dermatologist,2,Full-Time
+D0204,Simon Pant,DEP008,Oncologist,7,Full-Time
+D0205,Harini Mammen,DEP034,Neurologist,22,Part-Time
+D0206,Advaith Varughese,DEP012,Neurologist,1,Full-Time
+D0207,Frederick Khurana,DEP005,Gastroenterologist,30,Contract
+D0208,Vrinda Khosla,DEP017,Pediatrician,16,Full-Time
+D0209,Vritti Sem,DEP023,Pediatrician,15,Part-Time
+D0210,Girik Menon,DEP014,Neurologist,2,Part-Time
+D0211,Nidhi Kohli,DEP039,General Physician,6,Full-Time
+D0212,Jyoti Solanki,DEP034,Neurologist,6,Full-Time
+D0213,Pavani Narayanan,DEP018,General Physician,30,Full-Time
+D0214,Sudiksha Madan,DEP034,Neurologist,20,Full-Time
+D0215,Zayan Kashyap,DEP033,Dermatologist,24,Contract
+D0216,Reyansh Mutti,DEP030,Dermatologist,23,Full-Time
+D0217,Qasim Handa,DEP017,Pediatrician,5,Part-Time
+D0218,Veda Malhotra,DEP010,General Physician,24,Part-Time
+D0219,Harish Hari,DEP017,Pediatrician,28,Full-Time
+D0220,Utkarsh Patel,DEP005,Gastroenterologist,2,Full-Time
+D0221,Chasmum Atwal,DEP002,Emergency Physician,13,Full-Time
+D0222,Anusha Bath,DEP011,Oncologist,19,Full-Time
+D0223,Brinda Date,DEP023,Pediatrician,23,Full-Time
+D0224,Harshil Arora,DEP011,Oncologist,22,Full-Time
+D0225,Upasna Srinivas,DEP004,Oncologist,8,Full-Time
+D0226,Harini Gour,DEP025,Gastroenterologist,3,Contract
+D0227,Zayyan Sridhar,DEP027,Neurologist,29,Contract
+D0228,Dhruv Rattan,DEP019,Dermatologist,21,Full-Time
+D0229,Ethan Bera,DEP028,Neurologist,10,Full-Time
+D0230,Manthan Modi,DEP021,Cardiologist,6,Full-Time
+D0231,Yuvraj Dani,DEP012,Neurologist,26,Contract
+D0232,Upkaar Virk,DEP014,Neurologist,26,Full-Time
+D0233,Shravya Savant,DEP009,Emergency Physician,26,Part-Time
+D0234,Pushti Mody,DEP022,Neurologist,15,Full-Time
+D0235,Hardik Johal,DEP017,Pediatrician,26,Contract
+D0236,Aishani Bumb,DEP008,Oncologist,17,Full-Time
+D0237,Wriddhish Ghose,DEP015,Oncologist,15,Full-Time
+D0238,Naksh Agate,DEP022,Neurologist,14,Full-Time
+D0239,Shravya Singhal,DEP023,Pediatrician,14,Full-Time
+D0240,Bachittar Kata,DEP026,Radiologist,14,Full-Time
+D0241,Barkha Setty,DEP007,General Physician,3,Contract
+D0242,Vivaan Lalla,DEP018,General Physician,26,Full-Time
+D0243,Pavani Contractor,DEP015,Oncologist,25,Part-Time
+D0244,Manthan Lata,DEP028,Neurologist,10,Full-Time
+D0245,Ekbal Bhasin,DEP017,Pediatrician,7,Full-Time
+D0246,Damyanti Mani,DEP025,Gastroenterologist,17,Full-Time
+D0247,Jeet Sidhu,DEP025,Gastroenterologist,4,Full-Time
+D0248,Neha Magar,DEP018,General Physician,15,Full-Time
+D0249,Raksha Buch,DEP022,Neurologist,2,Full-Time
+D0250,Rachana Naidu,DEP040,Dermatologist,17,Full-Time
+D0251,Atharv Chand,DEP037,Oncologist,6,Contract
+D0252,Ansh Luthra,DEP034,Neurologist,27,Full-Time
+D0253,Parth Singhal,DEP006,Orthopedic Specialist,5,Contract
+D0254,Arunima Golla,DEP022,Neurologist,21,Full-Time
+D0255,Vyanjana Chand,DEP004,Oncologist,30,Full-Time
+D0256,Ijaya Rege,DEP030,Dermatologist,24,Contract
+D0257,Ekani Cheema,DEP003,Gastroenterologist,19,Full-Time
+D0258,Forum Sabharwal,DEP037,Oncologist,4,Contract
+D0259,Bhavya Rattan,DEP006,Orthopedic Specialist,2,Full-Time
+D0260,Suhani Chakrabarti,DEP011,Oncologist,4,Full-Time
+D0261,Zayyan Naik,DEP030,Dermatologist,24,Part-Time
+D0262,Netra Varkey,DEP002,Emergency Physician,15,Full-Time
+D0263,Turvi Sachdev,DEP026,Radiologist,19,Part-Time
+D0264,Raghav Vasa,DEP005,Gastroenterologist,6,Contract
+D0265,Wishi Sathe,DEP004,Oncologist,19,Full-Time
+D0266,Samar Loke,DEP020,Orthopedic Specialist,17,Full-Time
+D0267,Bhavna Sarma,DEP001,Radiologist,26,Part-Time
+D0268,Jairaj Balakrishnan,DEP038,Cardiologist,5,Full-Time
+D0269,Nathan Mukhopadhyay,DEP036,Gastroenterologist,13,Full-Time
+D0270,Nikita Chander,DEP033,Dermatologist,6,Full-Time
+D0271,Ishaan Shenoy,DEP010,General Physician,5,Full-Time
+D0272,Mitesh Tara,DEP002,Emergency Physician,13,Full-Time
+D0273,Yashodhara Mahajan,DEP020,Orthopedic Specialist,1,Full-Time
+D0274,Vasudha Sodhi,DEP009,Emergency Physician,17,Full-Time
+D0275,Tanmayi Dhillon,DEP015,Oncologist,24,Full-Time
+D0276,Rayaan Trivedi,DEP035,Emergency Physician,30,Full-Time
+D0277,Ekaraj Majumdar,DEP005,Gastroenterologist,30,Part-Time
+D0278,Harini Tripathi,DEP014,Neurologist,21,Part-Time
+D0279,Aarnav Mandal,DEP009,Emergency Physician,2,Full-Time
+D0280,Vrishti Dixit,DEP035,Emergency Physician,1,Part-Time
+D0281,Veda Pai,DEP022,Neurologist,28,Part-Time
+D0282,Krishna Shah,DEP008,Oncologist,11,Part-Time
+D0283,Ranbir Khare,DEP014,Neurologist,28,Full-Time
+D0284,Vivaan Roy,DEP021,Cardiologist,5,Part-Time
+D0285,Eesha Solanki,DEP014,Neurologist,26,Contract
+D0286,Libni Doshi,DEP025,Gastroenterologist,13,Full-Time
+D0287,Balhaar Date,DEP018,General Physician,8,Full-Time
+D0288,Harish Sarraf,DEP040,Dermatologist,14,Contract
+D0289,Tanmayi Aurora,DEP038,Cardiologist,1,Part-Time
+D0290,Nimrat Dubey,DEP015,Oncologist,1,Full-Time
+D0291,Upasna Lanka,DEP033,Dermatologist,15,Full-Time
+D0292,Mitali Buch,DEP014,Neurologist,21,Contract
+D0293,Lajita Nadig,DEP039,General Physician,19,Full-Time
+D0294,Balendra Biswas,DEP003,Gastroenterologist,7,Part-Time
+D0295,Bhavna Karan,DEP015,Oncologist,15,Full-Time
+D0296,Radha Chaudhari,DEP030,Dermatologist,7,Full-Time
+D0297,Sachi Ganesan,DEP029,Pediatrician,6,Part-Time
+D0298,Ayush Batra,DEP037,Oncologist,27,Part-Time
+D0299,Daksh Memon,DEP004,Oncologist,22,Part-Time
+D0300,Kavya Sankar,DEP005,Gastroenterologist,27,Part-Time
