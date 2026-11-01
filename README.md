@@ -379,11 +379,11 @@ A focused view of claim performance and treatment costs.
 
 ### 🏠 Executive Overview
 
-![Executive Overview](Visuals/Executive_Overview.png)
+![Executive_Overview](./Visuals/Executive_Overview.png)
 
 ### 💰 Financial & Claims Analysis
 
-![Financial_Claims_Analysis](Visuals/Financial_Claims_Analysis.png)
+![Financial_Claims_Analysis](./Visuals/Financial_Claims_Analysis.png)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,24&height=4" width="100%" />
 
