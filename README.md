@@ -377,13 +377,11 @@ A focused view of claim performance and treatment costs.
 
 ## 📸 Visuals
 
-### 🏠 Executive Overview
+Explore the screenshots of the MediCare Healthcare Analytics Dashboard:
 
-![Executive_Overview](./Visuals/Executive_Overview.png)
+* 🏠 [View Executive Overview](./Visuals/Executive_Overview.png)
+* 💰 [View Financial & Claims Analysis](./Visuals/Financial_Claims_Analysis.png)
 
-### 💰 Financial & Claims Analysis
-
-![Financial_Claims_Analysis](./Visuals/Financial_Claims_Analysis.png)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,24&height=4" width="100%" />
 
