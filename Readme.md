@@ -1,35 +1,13 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24&height=260&section=header&text=MediCare&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Healthcare%20Analytics%20Dashboard&descSize=28&descAlignY=62" width="100%" />
-
-<a href="https://github.com/harsh-mish">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=14B8A6&center=true&vCenter=true&width=800&lines=%F0%9F%8F%A5+Transforming+Healthcare+Data+into+Insights;%F0%9F%93%8A+Power+BI+%2B+DAX+%2B+Microsoft+Fabric;%F0%9F%92%8A+Patients+%7C+Hospitals+%7C+Claims+%7C+Treatments;%E2%9C%A8+Star+Schema+%7C+PySpark+%7C+SQL" alt="Typing SVG" />
-</a>
+<div align="center"> <img src="assets/medicare_banner.svg" alt="MediCare - Healthcare Analytics Dashboard" width="100%" /> <a href="https://github.com/harsh-mish"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=0EA5E9&center=true&vCenter=true&width=850&lines=%F0%9F%8F%A5+Transforming+Healthcare+Data+into+Insights;%F0%9F%93%8A+Power+BI+%2B+DAX+%2B+Microsoft+Fabric;%F0%9F%92%8A+Patients+%7C+Hospitals+%7C+Claims+%7C+Treatments;%E2%9C%A8+Medallion+%7C+Star+Schema+%7C+Spark+SQL+%7C+RLS" alt="Typing SVG" /> </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/DOMAIN-HEALTHCARE-0D9488?style=for-the-badge&logo=healthicons&logoColor=white" />
-<img src="https://img.shields.io/badge/POWER%20BI-ANALYTICS-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/MICROSOFT%20FABRIC-DATA%20PLATFORM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=for-the-badge&logo=checkmarx&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logo=powerbi&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20Query-00A4EF?style=flat-square" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Star%20Schema-EC4899?style=flat-square" />
-<img src="https://img.shields.io/badge/Synthetic%20Data-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Dashboards-2-F97316?style=flat-square" />
+<img src="https://img.shields.io/badge/DOMAIN-HEALTHCARE-0D9488?style=for-the-badge&logo=healthicons&logoColor=white" /> <img src="https://img.shields.io/badge/POWER%20BI-ANALYTICS-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/MICROSOFT%20FABRIC-DATA%20PLATFORM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=for-the-badge&logo=checkmarx&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/🥉🥈🥇%20Medallion%20Architecture-0891B2?style=for-the-badge" /> <img src="https://img.shields.io/badge/🔐%20RLS%20·%20CLS%20·%20OLS-EF4444?style=for-the-badge" /> <img src="https://img.shields.io/badge/🧩%20Star%20Schema-EC4899?style=for-the-badge" /> <br/> <img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logo=powerbi&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20Query-00A4EF?style=flat-square" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/Synthetic%20Data-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/Dashboards-2-F97316?style=flat-square" />
 
 <br/><br/>
 
-### 🩺 An end-to-end healthcare analytics project to monitor **hospital performance**, **patient activity**, **financial claims** and **treatment costs** through interactive Power BI dashboards.
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,24&height=4" width="100%" />
+🩺 An end-to-end healthcare analytics project to monitor hospital performance, patient activity, financial claims and treatment costs through interactive Power BI dashboards.
+</div> <img src="assets/ecg_divider.svg" width="100%" alt="ECG divider" />
 
 ## 🧭 Table of Contents
 
