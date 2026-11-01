@@ -375,7 +375,7 @@ A focused view of claim performance and treatment costs.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,24&height=4" width="100%" />
 
-## 📸 Screenshots
+## 📸 Visuals
 
 ### 🏠 Executive Overview
 
