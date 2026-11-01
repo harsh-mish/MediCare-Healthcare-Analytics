@@ -609,7 +609,7 @@ git clone https://github.com/harsh-mish/MediCare-Healthcare-Analytics.git
 
 <div align="center">
 
-### Harsh Mishra
+### Abhishek Mishra
 
 **Computer Science Engineering Graduate · Data Analytics · Data Engineering**
 
